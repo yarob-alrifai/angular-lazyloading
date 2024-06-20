@@ -14,6 +14,8 @@ const routes: Routes = [
   //   loadChildren: () =>
   //     import('./pages/users/users.module').then((m) => m.UserModule),
   // },
+
+  
   // green this for use custom preloding strategy
   // {
   //   path: 'products',
@@ -21,6 +23,8 @@ const routes: Routes = [
   //     import('./products/products.module').then((m) => m.ProductsModule),
   //   data: { preload: false }, // Do not preload this module
   // },
+
+  
   // green this for use custom preloding strategy
   // {
   //   path: 'another-feature',
